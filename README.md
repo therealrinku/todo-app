@@ -1,4 +1,4 @@
-#Todo App
+# Todo App
 
 - [ ] OpenAPI codegen in frontend
 - [ ] ESlint and prettier
