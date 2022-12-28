@@ -21,6 +21,6 @@ For Backend
   2. ``` yarn install ``` 
   3. add .env(DATABASE_URL="<db_url>?connect_timeout=300&connection_limit=40&pool_timeout=0" and JWT_KEY="key")
   4. ``` yarn primsa db push ```
-  4. ``` yarn start run ```
+  5. ``` yarn start run ```
 
 
