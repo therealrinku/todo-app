@@ -1,9 +1,9 @@
 # Todo App
 
-- [ ] OpenAPI codegen in frontend
-- [ ] ESlint and prettier
-- [x] Frontend with React(Vite),Tailwindcss, React Query, Typescript
-- [x] Backend with NestJS , Swagger(http://localhost:3000), Typescript
+- [ ] OpenAPI codegen in frontend ❌
+- [ ] ESlint and prettier ❌
+- [x] Frontend with React(Vite),Tailwindcss, React Query, Typescript ✅ 
+- [x] Backend with NestJS , Swagger(http://localhost:3000/api), Typescript ✅ 
 
 
 Instructions to run locally
@@ -14,7 +14,7 @@ For Frontend
   1. ``` cd frontend  ```
   2. ``` yarn  ```
   3. add .env.local file (VITE_API_URL = http://localhost:3000 or <nest_server_url>) 
-  4.``` yarn dev ```
+  4. ``` yarn dev ```
 
 For Backend 
   1. ``` cd backend ```
