@@ -11,7 +11,7 @@
 
 Instructions to run locally
 
-```git clone https://github.com/therealrinku/-todo-app.git```
+```git clone https://github.com/therealrinku/todo-app.git```
 
 For Frontend 
   1. ``` cd frontend  ```
