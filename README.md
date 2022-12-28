@@ -23,8 +23,7 @@ Instructions to run locally
   1. ``` cd backend ```
   2. ``` yarn  ``` 
   3. add .env(DATABASE_URL="<db_url>?connect_timeout=300&connection_limit=40&pool_timeout=0" and JWT_KEY="key")
-  4. ``` yarn prisma init ```
-  5. ``` yarn primsa db push ```
-  6. ``` yarn start run ```
+  4. ``` yarn primsa db push ```
+  5. ``` yarn start run ```
 
 
