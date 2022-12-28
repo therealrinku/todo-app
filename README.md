@@ -3,7 +3,9 @@
 1. OpenAPI codegen in frontend ❌
 2. ESlint and prettier ❌
 3. Frontend with React(Vite),Tailwindcss, React Query, Typescript ✅ 
-4. Backend with NestJS , Swagger(http://localhost:3000/api), Typescript ✅ 
+4. Backend with NestJS , Swagger(http://localhost:3000/api), Typescript ✅
+5. Todo - Create, Update title of incompleted todo, mark completed,delete ✅
+6. Users - signup(email,password,unique email), login(JWT), change password ✅
 
 
 
