@@ -1,9 +1,9 @@
 # Todo App
 
-- [ ] OpenAPI codegen in frontend ❌
-- [ ] ESlint and prettier ❌
-- [x] Frontend with React(Vite),Tailwindcss, React Query, Typescript ✅ 
-- [x] Backend with NestJS , Swagger(http://localhost:3000/api), Typescript ✅ 
+OpenAPI codegen in frontend ❌
+ESlint and prettier ❌
+Frontend with React(Vite),Tailwindcss, React Query, Typescript ✅ 
+Backend with NestJS , Swagger(http://localhost:3000/api), Typescript ✅ 
 
 
 Instructions to run locally
