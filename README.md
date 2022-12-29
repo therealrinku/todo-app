@@ -1,7 +1,8 @@
 # Todo App
 
 I couldn't do everything as written in assignment because of time constraints I had.
-Here is the summary
+Also I've used cloud PostgreSQL DB Instead of MySQL. I hope that's fine.
+Here is the summary:
 
 1. OpenAPI codegen in frontend ❌
 2. ESlint and prettier ❌
