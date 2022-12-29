@@ -1,6 +1,6 @@
 # Todo App
 
-I couldn't do everthing as written in assignment because of time constraints I had.
+I couldn't do everything as written in assignment because of time constraints I had.
 Here is the summary
 
 1. OpenAPI codegen in frontend ❌
