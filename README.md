@@ -1,5 +1,8 @@
 # Todo App
 
+I couldn't do everthing as written in assignment because of time constraints I had.
+Here is the summary
+
 1. OpenAPI codegen in frontend ❌
 2. ESlint and prettier ❌
 3. Frontend with React(Vite),Tailwindcss, React Query, Typescript ✅ 
